@@ -1,3 +1,3 @@
-# abrahamnavas.github.io
+### abrahamnavas.github.io
 
-##Just another free and personal site
+Just another free and personal site
